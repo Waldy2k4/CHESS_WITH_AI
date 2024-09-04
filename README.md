@@ -1,5 +1,5 @@
 # CHESS_WITH_AI
-I've Created Chess Game And keeping Opponent as AI. It's Difficultu Is Easy.
+I've Created Chess Game And keeping Opponent as AI. It's Difficulty Is Easy.
 
 I've Used HTML, CSS & Typescript to Complete This Game.
 
